@@ -1,2 +1,0 @@
-# GHAFO.py
-GHAFO.py
